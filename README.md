@@ -1,4 +1,5 @@
-- 👋 Olá, pode me chamar de Gab. Tenho 18 anos.
+*Olá, pode me chamar de Gab. Tenho 18 anos.*
+-
 - 👀 Desde criança eu me interesso por computadores, e inspirado pelo meu tio que estudou e trabalha na área de TI, eu tenho seguido seus passos!!
 - 🌱 Estou estudando C no momento, na minha faculdade mesmo.
 - 💞️ Penso em começar a desenvolver mods para jogos e talvez soluções para mim mesmo que facilitem minha navegação na internet... Mas é só um sonho por enquanto.
