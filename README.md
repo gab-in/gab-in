@@ -14,4 +14,6 @@ Seja bem-vindo ao meu perfil!
 - 👜 Estou a procura de vagas de estágios no momento; Pretendo seguir carreira corporativa após terminar a faculdade.
 - 📫 Email: gab.covalski@gmail.com / Whatsapp: (42)99982-8603.
 
-# Close the world, open the next.
+
+---
+"Close the world, open the next."
