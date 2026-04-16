@@ -1,11 +1,3 @@
-Welcome to my profile!
--
-- 💻 Proeficient in C language, but i've worked with Assembly, Java and Python too in the past.
-- 💾 I've got a personal interest in image recognition technlogies.
-- 🎓 Graduation on a Technical Degree in Information Technology, in the Federal Institute of Paraná in Decemeber 2023; Currently enroled in Bachelors Degree in Computer Science on Federal Technologic University of Paraná, expected to graduate in December 2027.
-- 👜 Currently looking to land an internship; I intend to chase a corporative career path.
-- 📫 Email: gab.covalski@gmail.com / Whatsapp: (42)99982-8603.
-  
 Seja bem-vindo ao meu perfil!
 -
 - 💻 Sou proeficiente em C, mas já trabalhei com Assembly, Java e Python no passado.
