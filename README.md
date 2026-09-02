@@ -1,10 +1,11 @@
-Seja bem-vindo ao meu perfil!
+Welcome, welcome, welcome!
 -
-- 💻 Sou proeficiente em C, mas já trabalhei com Assembly, Java e Python no passado.
-- 💾 Tenho interesse em tecnologias de reconhecimento de imagem.
-- 🎓 Me formei como Ténico em Informática no Instituo Federal do Paraná em dezembro de 2023; No momento estou cursando Bacharelado em Ciência da Computação na Universidade Tecnológica Federal do Paraná, com previsão de graduação em dezembro de 2027.
-- 👜 Estou a procura de vagas de estágios no momento; Pretendo seguir carreira corporativa após terminar a faculdade.
-- 📫 Email: gab.covalski@gmail.com 
+- ⭐️ Computer Science @ Federal University of Technology of Paraná
+- 🟢 Intern @ The HEINEKEN Company
+- Specializing in data analytics/data science
+
+I'm a really big fan of Lain (if you couldn't notice), but i got into computers way before knowing her!
+If you need to contact me, my e-mail is: gab.covalski@gmail.com 
 
 
 ---
